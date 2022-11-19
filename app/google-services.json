@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23297382040",
+    "project_id": "smartcarapp-1a1f8",
+    "storage_bucket": "smartcarapp-1a1f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23297382040:android:6e43b497f08a938ad222ed",
+        "android_client_info": {
+          "package_name": "com.example.verasteguipc02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23297382040-ien96e22trhkul2va7dp2cmv4hhlmdtj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjUgJxHFNbDzwIN41OqnVgQCdMozy2oiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23297382040-ien96e22trhkul2va7dp2cmv4hhlmdtj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
